@@ -4,7 +4,7 @@
   Disponivel em:  https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
  
  ## Atividades referentes ao pdf "atividade1.pdf"
- ### Atividades feitas, disponíveis em: "atividade1" 
+ ### Atividades feitas, disponíveis na pasta: "atividade1" 
  * filaDePrioridade
  * insereRemoveDadosFila
  * insereRemoveDadosPilha

@@ -14,8 +14,8 @@
   
 ### Execução do projeto:
 
-![alt text](https://github.com/mateus2810/atividadesIa/imagens/abrindoProjeto)
+![alt text](https://github.com/mateus2810/atividadesIa/imagens/abrindoProjeto.png)
 
 Projeto selecionado:
 
-![alt text](https://github.com/mateus2810/atividadesIa/imagens/projetoAberto)
+![alt text](https://github.com/mateus2810/atividadesIa/imagens/projetoAberto.png)

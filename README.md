@@ -12,6 +12,13 @@
  * olaMundo
  * preencherMatrix
   
+ ## Atividades referentes ao pdf "atividade2.pdf"
+ ### Atividades feitas, disponíveis na pasta: "atividade2" 
+ * DadosMatrizAdjacenteArquivo
+ * RetornarVerticesAdjacentes
+ * SomaRecursivaVetor
+ * TarefasEmOrdemFila
+
   
 ### Execução do projeto:
 

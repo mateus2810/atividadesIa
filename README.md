@@ -27,3 +27,11 @@
 Projeto selecionado:
 
 ![alt text](https://github.com/mateus2810/atividadesIa/blob/master/imagens/projetoAberto.png)
+
+### Trabalho Prático
+
+Não sobre alterações enquanto a execução do projeto:
+  * File/Open/Trabalho Prático
+  * Executar/Run - Main.py
+  
+

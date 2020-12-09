@@ -30,8 +30,15 @@ Projeto selecionado:
 
 ### Trabalho Prático
 
-Não sobre alterações enquanto a execução do projeto:
-  * File/Open/Trabalho Prático
+#### Parte 1 Trabalho:
+Não sofre alterações enquanto a execução do projeto: "atividadesIa/Trabalho Prático/projeto/"
+  * File/Open/Trabalho Prático/projeto
   * Executar/Run - Main.py
+  
+#### Parte 2 Trabalho:
+Segunda parte do trabalho está em: "atividadesIa/Trabalho Prático/projeto2/"
+  * File/Open/Trabalho Prático/projeto2
+  * Executar/Run - Main.py
+
   
 

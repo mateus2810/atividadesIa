@@ -76,15 +76,15 @@ def buscaProfundidade(inicial, final):
         limite += 1
     return caminho
 
-def contagemPosicaoForaLugar(estadoInicial, estadoFinal):#Numero de peças na posição errada
+def contagemPosicaoForaLugar(estadoInicial, estadoFinal):
     estadoI = eval(estadoInicial)
     estadoF = eval(estadoFinal)
-    foraLugar = 0
+    posicaoDiferente = 0
     for i in range(0,3):
         for j in range(0,3):
             if estadoI[i][j] != estadoF[i][j]:
-                foraLugar += 1
-    return foraLugar
+                posicaoDiferente += 1
+    return posicaoDiferente
 
 def buscaGulosa(estadoInicial, estadoObjetivo):
     nosExpandidos = 0
